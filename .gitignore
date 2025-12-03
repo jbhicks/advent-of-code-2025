@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+aoc2025
 
 # Test binary, built with `go test -c`
 *.test
